@@ -22,3 +22,4 @@ Insights:
         8. Customers mainly use 3 types of devices to order food: Mobile, Tablet and Desktops.
         
         9. Most customers choose Tablets to order food from Zomato. This is something that will help the app developers while testing out some new features.
+

@@ -4,12 +4,21 @@ In this case study we understand the weekly trends, the revenue collected, the p
 
 
 Insights:
+
         1. There were a total of 3020 orders during the time period of 18 days.
+        
         2. Most orders were placed on Thursdays, followed by Wednesday, Tuesdays and so on. 
+        
         3. There were 5 different cities that were considered for this data, out of which Noida had the most number of orders (412) and Banglore with the least no. of orders (352)
+        
         4. The Revenue that was earned during this period was 1.2M.
+        
         5. Profits collected during this period were 832K.
+        
         6. Most customers prefer food from Chinese Wok with the total number of 114 orders. Taco Bell was the least orderd restaurant with only 81 orders.
+        
         7. The top 5 Restaurants include: Chinese Wok, Biryani Blues, The Curry Leaf, Arabian Nights and Burger King Repectively in this order.
+        
         8. Customers mainly use 3 types of devices to order food: Mobile, Tablet and Desktops.
+        
         9. Most customers choose Tablets to order food from Zomato. This is something that will help the app developers while testing out some new features.

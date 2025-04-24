@@ -1,6 +1,8 @@
 This is a case study done on Zomato for a week time to understand the workings of food delivery business.
 This data is not an exact representation of the the actual working of Zomato. This is a dummy data project.
 In this case study we understand the weekly trends, the revenue collected, the profit earned, total no. of orders in a week span, etc.
+
+
 Insights:
         1. There were a total of 3020 orders during the time period of 18 days.
         2. Most orders were placed on Thursdays, followed by Wednesday, Tuesdays and so on. 

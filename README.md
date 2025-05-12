@@ -9,16 +9,17 @@ In this case study we understand the weekly trends, the revenue collected, the p
         Checked the data for discripancies and analysed it to understand the key pointer such as Total orders, Profits, Revenue, etc.
 
 *Dashboard Creation using Power BI:*
+
         I visualized the insights using a clean and interactive Power Bi dashboard to make the findings executive ready:
-                1. Profits earned
-                2. Revenue generated
-                3. Total orders
-                4. Top restaurants
-                5. Weekly Trends
-                6. City-wise Orders
-                7. Items ordered by Restaurant
-                8. Average order value per Restaurant
-                9. Devices used to use the app.
+                        1. Profits earned
+                        2. Revenue generated
+                        3. Total orders
+                        4. Top restaurants
+                        5. Weekly Trends
+                        6. City-wise Orders
+                        7. Items ordered by Restaurant
+                        8. Average order value per Restaurant
+                        9. Devices used to use the app.
 **Key Insights:**
 
         1. There were a total of 3020 orders during the time period of 18 days.

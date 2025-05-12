@@ -1,9 +1,25 @@
+**Project Objecive:**
+The objective of this analysis was to understand the B2B distribution modelof Zomato.
 This is a case study done on Zomato for a week time to understand the workings of food delivery business.
 This data is not an exact representation of the the actual working of Zomato. This is a dummy data project.
 In this case study we understand the weekly trends, the revenue collected, the profit earned, total no. of orders in a week span, etc.
 
+**My approach:**
+*Data Cleaning & Analysis*
+        Checked the data for discripancies and analysed it to understand the key pointer such as Total orders, Profits, Revenue, etc.
 
-Insights:
+*Dashboard Creation using Power BI:*
+        I visualized the insights using a clean and interactive Power Bi dashboard to make the findings executive ready:
+                1. Profits earned
+                2. Revenue generated
+                3. Total orders
+                4. Top restaurants
+                5. Weekly Trends
+                6. City-wise Orders
+                7. Items ordered by Restaurant
+                8. Average order value per Restaurant
+                9. Devices used to use the app.
+**Key Insights:**
 
         1. There were a total of 3020 orders during the time period of 18 days.
         
